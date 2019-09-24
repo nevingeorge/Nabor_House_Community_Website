@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+	<link rel="stylesheet" href="style2.css">
+</head>
+<body>
+
+<h1> Update Personal Information </h1>
+
+<form action="update.php" method="post">
+	Username: <input type="text" name="username" required>
+		<br/>
+	Password: <input type="text" name="password" required>
+		<br/>
+	First Name: <input type="text" name="first" required>
+		<br/>
+	Last Name: <input type="text" name="last" required>
+		<br/>
+	Email: <input type="email" name="email" required>
+		<br/>
+	Home Phone: <input type="text" name="hphone" required>
+		<br/>
+	Cell Phone: <input type="text" name="cphone" required>
+		<br/>
+	Street Address: <input type="text" name="staddress" required>
+		<br/>
+	City: <input type="text" name="city" required>
+		<br/>
+	State: <input type="text" name="state" required>
+		<br/>
+	Zipcode: <input type="text" name="zip" required>
+		<br/>
+	<input type="reset">
+	<button type="submit">Update</button>
+</form>
+
+<br/>
+
+<form method="get" action="mainpage.php">
+    <button type="submit">Go back</button>
+</form>
+
+</body>
+</html>

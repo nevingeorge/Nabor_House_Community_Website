@@ -1,0 +1,68 @@
+[24-Nov-2017 23:12:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'SB_X5VEFbhATv7qn'@'localhost' (using password: YES) in /home/hmbcbbwnh1p0/public_html/config.php on line 2
+[24-Nov-2017 23:12:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'SB_X5VEFbhATv7qn'@'localhost' (using password: YES) in /home/hmbcbbwnh1p0/public_html/config.php on line 2
+[24-Nov-2017 23:12:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'SB_X5VEFbhATv7qn'@'localhost' (using password: YES) in /home/hmbcbbwnh1p0/public_html/config.php on line 2
+[24-Nov-2017 23:13:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'SB_X5VEFbhATv7qn'@'localhost' (using password: YES) in /home/hmbcbbwnh1p0/public_html/config.php on line 2
+[24-Nov-2017 23:27:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'SB_X5VEFbhATv7qn'@'localhost' (using password: YES) in /home/hmbcbbwnh1p0/public_html/config.php on line 2
+[24-Nov-2017 23:35:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'SB_X5VEFbhATv7qn'@'localhost' (using password: YES) in /home/hmbcbbwnh1p0/public_html/config.php on line 2
+[24-Nov-2017 23:40:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'SB_X5VEFbhATv7qn'@'localhost' (using password: YES) in /home/hmbcbbwnh1p0/public_html/config.php on line 2
+[24-Nov-2017 23:42:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'SB_X5VEFbhATv7qn'@'localhost' (using password: YES) in /home/hmbcbbwnh1p0/public_html/config.php on line 2
+[24-Nov-2017 23:47:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'SB_X5VEFbhATv7qn'@'localhost' (using password: YES) in /home/hmbcbbwnh1p0/public_html/config.php on line 2
+[25-Nov-2017 16:22:24 UTC] PHP Warning:  get_browser(): browscap ini directive not set in /home/hmbcbbwnh1p0/public_html/index.php on line 57
+[28-Nov-2017 14:44:27 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 23
+[28-Nov-2017 14:44:27 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 26
+[13-Dec-2017 16:33:27 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 23
+[13-Dec-2017 16:33:27 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 26
+[13-Dec-2017 16:37:42 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 23
+[13-Dec-2017 16:37:42 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 26
+[16-Dec-2017 00:32:57 UTC] PHP Notice:  Undefined index: ID in /home/hmbcbbwnh1p0/public_html/mainpage.php on line 63
+[22-Dec-2017 20:22:08 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 23
+[22-Dec-2017 20:22:08 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 26
+[22-Dec-2017 20:31:39 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 23
+[22-Dec-2017 20:31:39 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 26
+[22-Dec-2017 20:33:01 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 23
+[22-Dec-2017 20:33:01 UTC] PHP Notice:  Undefined index: activity in /home/hmbcbbwnh1p0/public_html/addHours.php on line 26
+[12-Feb-2018 20:57:36 UTC] PHP Notice:  Undefined index: ID in /home/hmbcbbwnh1p0/public_html/perInfo.php on line 21
+[12-Feb-2018 20:57:38 UTC] PHP Notice:  Undefined index: fn in /home/hmbcbbwnh1p0/public_html/userInfo.php on line 18
+[12-Feb-2018 20:57:38 UTC] PHP Notice:  Undefined index: ln in /home/hmbcbbwnh1p0/public_html/userInfo.php on line 18
+[12-Feb-2018 20:57:38 UTC] PHP Notice:  Undefined index: ID in /home/hmbcbbwnh1p0/public_html/userInfo.php on line 27
+[12-Apr-2018 13:39:30 UTC] PHP Notice:  Undefined index: fn in /home/hmbcbbwnh1p0/public_html/userInfo.php on line 18
+[12-Apr-2018 13:39:30 UTC] PHP Notice:  Undefined index: ln in /home/hmbcbbwnh1p0/public_html/userInfo.php on line 18
+[12-Apr-2018 13:39:30 UTC] PHP Notice:  Undefined index: ID in /home/hmbcbbwnh1p0/public_html/userInfo.php on line 27
+[12-Oct-2018 02:20:03 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[12-Oct-2018 02:20:03 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[15-Oct-2018 02:35:03 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Oct-2018 02:35:03 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[16-Oct-2018 02:40:02 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[16-Oct-2018 02:40:02 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[17-Oct-2018 02:45:03 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[17-Oct-2018 02:45:03 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[19-Oct-2018 02:55:03 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[19-Oct-2018 02:55:03 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[21-Oct-2018 03:05:03 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[21-Oct-2018 03:05:03 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[25-Oct-2018 03:25:02 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[25-Oct-2018 03:25:02 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[28-Oct-2018 03:40:03 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[28-Oct-2018 03:40:03 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[30-Oct-2018 03:50:03 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[30-Oct-2018 03:50:03 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[01-Nov-2018 04:00:03 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[01-Nov-2018 04:00:03 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[03-Nov-2018 04:10:02 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[03-Nov-2018 04:10:02 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[08-Nov-2018 04:35:03 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[08-Nov-2018 04:35:03 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[11-Nov-2018 04:47:49 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[11-Nov-2018 04:47:49 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[13-Nov-2018 04:57:50 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[13-Nov-2018 04:57:50 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[14-Nov-2018 05:02:50 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[14-Nov-2018 05:02:50 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[15-Nov-2018 05:07:49 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[15-Nov-2018 05:07:49 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[18-Nov-2018 05:22:50 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[18-Nov-2018 05:22:50 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[19-Nov-2018 05:27:50 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[19-Nov-2018 05:27:50 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[20-Nov-2018 05:32:50 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[20-Nov-2018 05:32:50 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/hmbcbbwnh1p0/public_html/sucuri-db-backup-c.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
